@@ -43,16 +43,18 @@ The project highlights:
 
 ## 🌍 Key Dashboard Visuals
 
-### Power BI Visuals:
-1. **Rotten Tomatoes Scores** 🎥: Bar charts showing the average scores for each genre.
-2. **Worldwide Gross Revenue** 🌍: Tree maps highlighting gross revenue by genre.
-3. **Movies Produced Per Year** 📅: Donut charts displaying production frequency by year.
-4. **Profitability by Studio** 🎞️: Horizontal bar charts ranking studios by profitability.
+### 🟡 Power BI Visuals:
+1. **Rotten Tomatoes Scores** 🎥: Bar charts showing the average Rotten Tomatoes scores for each genre.
+2. **Audience Scores** 👥: A table displaying audience scores for individual films.
+3. **Worldwide Gross Revenue** 🌍: Tree maps highlighting gross revenue by genre.
+4. **Movies Produced Per Year** 📅: Donut charts displaying production frequency by year.
+5. **Profitability by Studio** 🎞️: Horizontal bar charts ranking studios by profitability.
+
 
 ![Power BI main dashboard ](https://github.com/user-attachments/assets/a363fd71-a30f-4381-b7c5-b8ad029bb7e4)
 
 
-### R Visuals:
+### 🟠 R Visuals:
 1. **Scatterplot and Bar Chart**:
 
    <img src="https://github.com/user-attachments/assets/6236b40a-3451-405f-aba8-faf3105ebb21" alt="R Scatter Plot Assignment" width="45%">  
