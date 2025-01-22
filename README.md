@@ -21,6 +21,7 @@ The project highlights:
   - Tree maps 🌳 for worldwide gross revenue by genre.
   - Donut charts 🍩 for the number of movies produced per year.
   - Horizontal bar charts 📈 for profitability by studio.
+  - Audience Scores 👥  table for displaying audience scores for individual films.
 - **Interactive Features** 🎛️:
   - Slicers for filtering by genre, studio, and year.
   - Drill-through pages for detailed insights.
